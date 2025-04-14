@@ -40,3 +40,8 @@ CONFIG_PACKAGE_kmod-mt76x02-usb=y
 CONFIG_PACKAGE_kmod-mt76x2=y
 CONFIG_PACKAGE_kmod-mt76x2-common=y
 CONFIG_PACKAGE_kmod-mt76x2u=y
+
+### WirelessAPD
+CONFIG_PACKAGE_hostapd=y
+CONFIG_PACKAGE_hostapd-basic=m
+CONFIG_PACKAGE_hostapd-common=y
